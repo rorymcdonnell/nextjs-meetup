@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 
 const DUMMY_MEETUPS = [
   {
-    id: "m1",
+    id: "m3",
     title: "First Meetup",
     image:
       "https://cdn.pixabay.com/photo/2014/11/13/23/34/palace-530055_960_720.jpg",
